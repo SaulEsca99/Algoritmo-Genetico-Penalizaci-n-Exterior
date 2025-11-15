@@ -1,7 +1,6 @@
 # Algoritmo Genetico con Penalización Exterior - Tarea 4
 
 **Autor:** Escamilla Lazcano Saúl
-**Grupo:** 5BV1
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Libraries](https://img.shields.io/badge/Librerías-Matplotlib%20%7C%20NumPy-green.svg)](https://pypi.org/project/numpy/)
