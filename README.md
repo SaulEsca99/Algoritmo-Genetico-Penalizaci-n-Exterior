@@ -1,4 +1,4 @@
-# AG con Penalización Exterior - Tarea 4
+# Algoritmo Genetico con Penalización Exterior - Tarea 4
 
 **Autor:** Escamilla Lazcano Saúl
 **Grupo:** 5BV1
